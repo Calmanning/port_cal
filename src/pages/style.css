@@ -1,0 +1,83 @@
+h3{
+    padding-top: 20px;
+}
+
+.tree{
+    background-color: rgba(46, 139, 86, 0.397); 
+    border-radius: 10px;
+    margin: 20% 0;
+}
+
+#face{
+    margin: 50% 0px 50% 10px;
+    max-width:100%;
+    height:auto;
+}
+#bio{
+    margin: 11% 0px 0 0px;
+    max-width:100%;
+    height:auto;
+}
+
+body{
+    background-color: rgb(191, 197, 202);
+}
+
+.text{
+    margin: 5%;
+    border-radius: 5px;
+}
+
+.submit{
+    margin: 0 0 5% 0;
+}
+
+.resume {
+    color: rgba(18, 130, 235, 0.877);
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+  }
+  a:after {    
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    background: #fff;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+  }
+  a:hover:after { 
+    width: 100%; 
+    left: 0; 
+  }
+
+@media (max-width: 575px) {
+    #face{
+
+        margin: 0 auto;
+        max-width:100%;
+        height:auto;
+    }
+    #bio{
+        margin: 5% 0px 0 0px;
+        max-width:100%;
+        height:auto;
+    }
+    .tree{
+        background-color: rgba(46, 139, 86, 0.397); 
+        border-radius: 10px;
+        margin: 20% 0;
+        padding: 10px;
+    }   
+        
+
+
+}
