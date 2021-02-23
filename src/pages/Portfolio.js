@@ -20,7 +20,7 @@ const Portfolio = () => {
                 name: "Hey Bartender",
                 site: "https://piefon.github.io/heybartender/",
                 repo: "https://github.com/PieFon/heybartender",
-                img: "../../images/hey_bartender.png",
+                img: "../../images/hey_bartender.PNG",
                 blurb: "cocktail recipe database with search and save functions"
         },
        
