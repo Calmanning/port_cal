@@ -7,10 +7,18 @@ const Portfolio = () => {
     const[works, setWorks] = useState([
         
         {
+                id: 6,
+                name: "DunGen",
+                site: "https://octowaggle.herokuapp.com/",
+                repo: "https://github.com/desasser/dungen-frontend",
+                img: "../../images/DunGen.bmp",
+                blurb: "Dungeon Building Application with Social Integration"
+        },
+        {
                 id: 1,
                 name: "So Thirsty",
                 site: "https://sothirstyproject.herokuapp.com/",
-                repo: "",
+                repo: "https://github.com/Calmanning/so_thirsty",
                 img: "../../images/so_thirsty.png",
                 blurb: "Plant care assistance and social sharing app"
         },
