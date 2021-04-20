@@ -58,6 +58,63 @@ const Portfolio = () => {
                 img: "../../images/Password_Gen.bmp",
                 blurb: "Will generate a unique and personalized password."
         },
+        {
+                id: 6,
+                name: "Oliver Machinery",
+                site: "https://olivermachinery.net/",   
+                img: "../../Oliver Logo.jpg",
+                blurb: "Marketing & Social Media Manager, UX writer for company ecommerce site."
+        },
+        {
+                id: 7,
+                name: "MithZan",
+                site: "https://www.youtube.com/channel/UCKajXDl2vPA3qUoJvBlfFaw",   
+                img: "../../mithzan.bmp",
+                blurb: "Content Manager, Video Editor, PR for gaming YouTube channel."
+        },
+        {
+                id: 8,
+                name: "Your Pal Ross",
+                site: "https://www.youtube.com/channel/UCCFxsaQFk71sCPlKm3_RiCw",   
+                img: "../../yourpalross.bmp",
+                blurb: "Content Manager and Video Editor for gaming YouTube channel."
+        },
+        {
+                id: 9,
+                name: "Visual Expansion Gallery",
+                site: "https://www.youtube.com/channel/UCh1kPkcHexFmvjI_U_wg-7w",   
+                img: "../../visualExpGallery.bmp",
+                blurb: "Website redesign with online store, SEO improvement, social media."
+        },
+        {
+                id: 10,
+                name: "Aphmau Stories",
+                site: "https://www.youtube.com/channel/UCh1kPkcHexFmvjI_U_wg-7w",   
+                img: "../../aphmauStories",
+                blurb: "Showrunner, Producer & Manager for all content, marketing material, and merchandise."
+        },
+        {
+                id: 11,
+                name: "Aphmau",
+                site: "https://www.youtube.com/channel/UCzYfz8uibvnB7Yc1LjePi4g",   
+                img: "../../aphmau.bmp",
+                blurb: "Showrunner, Director, Producer on gameplay, merchandise and narrative content from end-to-end."
+        },
+        {
+                id: 13,
+                name: "Castor",
+                site: "https://www.youtube.com/channel/UCZBCtD0Xo6MUEg_D0de4KTA?view_as=subscriber",   
+                img: "../../YTchannelCastor.bmp",
+                blurb: "Writer, Talent, and Producer of all content for gaming/gameplay YouTube channel."
+        },
+        {
+                id: 14,
+                name: "Clare Meeker",
+                site: "https://www.claremeeker.com/",   
+                img: "../../clareMeeker.bmp",
+                blurb: "Website/blog management, digital strategy, marketing materials and social content for award-winning middle-grade author."
+        },
+        
     ])
 
     return (
