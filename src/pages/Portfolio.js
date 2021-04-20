@@ -49,7 +49,6 @@ const Portfolio = () => {
                 img: "../../images/weather_app.png",
                 blurb: "Call weather information, and 5-day forcast anywhere around the world"
         },
-        
         {
                 id: 5,
                 name: "Password Generator",
@@ -61,44 +60,44 @@ const Portfolio = () => {
         {
                 id: 6,
                 name: "Oliver Machinery",
-                site: "https://olivermachinery.net/",   
-                img: "../../Oliver Logo.jpg",
-                blurb: "Marketing & Social Media Manager, UX writer for company ecommerce site."
+                site: "https://olivermachinery.net/",
+                img: "../../4mfc4mpf.bmp",
+                blurb: "Marketing & Social Media Manager, UX writer for company ecommerce site"
         },
         {
                 id: 7,
                 name: "MithZan",
                 site: "https://www.youtube.com/channel/UCKajXDl2vPA3qUoJvBlfFaw",   
                 img: "../../mithzan.bmp",
-                blurb: "Content Manager, Video Editor, PR for gaming YouTube channel."
+                blurb: "Content Manager, Video Editor, PR for gaming YouTube channel"
         },
         {
                 id: 8,
                 name: "Your Pal Ross",
                 site: "https://www.youtube.com/channel/UCCFxsaQFk71sCPlKm3_RiCw",   
                 img: "../../yourpalross.bmp",
-                blurb: "Content Manager and Video Editor for gaming YouTube channel."
+                blurb: "Content Manager and Video Editor for gaming YouTube channel"
         },
         {
                 id: 9,
                 name: "Visual Expansion Gallery",
                 site: "https://www.youtube.com/channel/UCh1kPkcHexFmvjI_U_wg-7w",   
                 img: "../../visualExpGallery.bmp",
-                blurb: "Website redesign with online store, SEO improvement, social media."
+                blurb: "Website redesign with online store, SEO improvement, social media"
         },
         {
                 id: 10,
                 name: "Aphmau Stories",
                 site: "https://www.youtube.com/channel/UCh1kPkcHexFmvjI_U_wg-7w",   
-                img: "../../aphmauStories",
-                blurb: "Showrunner, Producer & Manager for all content, marketing material, and merchandise."
+                img: "../../iifdqsqz.bmp",
+                blurb: "Showrunner, Producer & Manager for all content, marketing material, and merchandise"
         },
         {
                 id: 11,
                 name: "Aphmau",
                 site: "https://www.youtube.com/channel/UCzYfz8uibvnB7Yc1LjePi4g",   
-                img: "../../aphmau.bmp",
-                blurb: "Showrunner, Director, Producer on gameplay, merchandise and narrative content from end-to-end."
+                img: "../../7c0c6xkc.bmp",
+                blurb: "Showrunner, Director, Producer on gameplay, merchandise and narrative content from end-to-end"
         },
         {
                 id: 13,
@@ -112,8 +111,8 @@ const Portfolio = () => {
                 name: "Clare Meeker",
                 site: "https://www.claremeeker.com/",   
                 img: "../../clareMeeker.bmp",
-                blurb: "Website/blog management, digital strategy, marketing materials and social content for award-winning middle-grade author."
-        },
+                blurb: "Website/blog management, digital strategy, marketing materials and social content for award-winning middle-grade author"
+        }
         
     ])
 

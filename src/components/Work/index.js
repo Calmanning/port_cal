@@ -17,9 +17,14 @@ const index = ({ work }) => {
           <li>
             <strong><a href={work.site} target="_blank">Website</a></strong> 
           </li>
-          <li>
-            <strong><a href={work.repo} target="_blank">GitHub Repo</a></strong>
+          { 
+              work.repo ?   <li>
+              <strong><a href={work.repo} target="_blank">GitHub Repo</a></strong>
           </li>
+              :
+              <> </>
+        
+            }
         </ul>
       </div> 
       </div>

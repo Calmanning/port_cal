@@ -16,9 +16,6 @@ function App() {
             <Route exact path={["/port"]}>
             <Portfolio />
             </Route>
-            <Route exact path={["/contact"]}>
-            <Contact />
-            </Route>
           </Switch>
     </div>
     </Router>
