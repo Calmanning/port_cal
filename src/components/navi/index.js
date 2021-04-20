@@ -15,9 +15,9 @@ function Navi() {
                         <li className="nav-item">
                             <a id="navi" className="nav-link" href="/port">Portfolio</a>
                         </li>
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <a id="navi" className="nav-link" href="/contact">Contact</a>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
             </nav>
