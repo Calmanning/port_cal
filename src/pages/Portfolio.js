@@ -63,7 +63,7 @@ const Portfolio = () => {
                 site: "https://calmanning.github.io/csm_password_generator_homework3/",
                 repo: "https://github.com/Calmanning/csm_password_generator_homework3",
                 img: "../../images/Password_Gen.bmp",
-                blurb: "Will generate a unique and personalized password."
+                blurb: "Will take directions from user and generate a unique and personalized password. Made with javaScript, CSS, and HTML."
         },
         {
                 id: 8,
