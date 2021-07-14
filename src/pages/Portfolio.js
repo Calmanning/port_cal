@@ -8,7 +8,7 @@ const Portfolio = () => {
         
         {
                 id: 15,
-                name: "Clothes & Clothes Clothing (WIP)",
+                name: "Clothes & Clothes Clothing",
                 site: "https://clothes-and-clothes.herokuapp.com/",
                 repo: "https://github.com/Calmanning/csm_new_proj",
                 img: "../../images/clothes&clothes.bmp",
